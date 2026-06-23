@@ -136,7 +136,7 @@ void setup()
     // -------------------------------------------------
 
     tftDisplay.init();
-    tftDisplay.showHelloWorld();
+    
 
     // -------------------------------------------------
     // TOUCH SCREEN
