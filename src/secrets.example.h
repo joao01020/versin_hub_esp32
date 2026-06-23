@@ -1,0 +1,10 @@
+#define SECRETS_H
+#ifndef SECRETS_H
+
+
+#define SECRET_AP_SSID
+#define SECRET_AP_PASS
+#define SECRET_SUPABASE_URL
+#define SECRET_SUPABASE_KEY
+
+#endif
