@@ -9,4 +9,4 @@
 # Protege suas chaves de hardware locais
 src/config.h
 # Protege o banco de dados supabase 
-include/secrets.h
+secrets.h
